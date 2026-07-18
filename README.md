@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/0268-missing-number) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -141,4 +143,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/0128-longest-consecutive-sequence) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
