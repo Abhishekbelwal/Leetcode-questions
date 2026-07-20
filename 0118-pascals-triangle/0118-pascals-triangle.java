@@ -1,30 +1,22 @@
 class Solution {
     public List<List<Integer>> generate(int numRows) {
-         List<List<Integer>> ll = new ArrayList<>();
-        for(int i=0;i<numRows;i++){
-            if(i==0){
-                List<Integer> first = new ArrayList<>();
-                first.add(1);
-                ll.add(first);
-            }
-            else if(i==1){
-                List<Integer> second = new ArrayList<>();
-                second.add(1);
-                second.add(1);
-                ll.add(second);
-            }
-            else{
-                List<Integer> prev = ll.get(i-1);
-                List<Integer> curr = new ArrayList<>();
-                curr.add(1);
-                for(int j=1;j<prev.size();j++){
-                    curr.add(prev.get(j-1) + prev.get(j));
-                }
-                curr.add(1);
-                ll.add(curr);
+        List<List<Integer>> triangle = new ArrayList<>();
+
+        // Loop for each row
+        for (int i = 0; i < numRows; i++) {
+            // Create a row with size (i+1)
+            List<Integer> row = new ArrayList<>(Collections.nCopies(i + 1, 1));
+
+            // Fill elements from index 1 to i-1 (middle values)
+            for (int j = 1; j < i; j++) {
+                // Each element = sum of two elements above it
+                row.set(j, triangle.get(i - 1).get(j - 1) +
+                           triangle.get(i - 1).get(j));
             }
 
+            // Add current row to the triangle
+            triangle.add(row);
         }
-        return ll;
+        return triangle;
     }
 }
