@@ -10,7 +10,7 @@ class Solution {
             if(map.get(nums[i])==min){
                 ll.add(nums[i]);
             }
-            if(ll.size()==2) break;
+            // if(ll.size()==2) break;
         }
         return ll;
     }
