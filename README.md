@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/0523-continuous-subarray-sum) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/0523-continuous-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/0560-subarray-sum-equals-k) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/1331-rank-transform-of-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
