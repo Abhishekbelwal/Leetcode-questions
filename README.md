@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/0344-reverse-string) |
+| [1021-remove-outermost-parentheses](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Math
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Greedy
 |  |
