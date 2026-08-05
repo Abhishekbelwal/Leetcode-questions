@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/0344-reverse-string) |
+| [0451-sort-characters-by-frequency](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/0268-missing-number) |
+| [0451-sort-characters-by-frequency](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/0451-sort-characters-by-frequency) |
 | [0523-continuous-subarray-sum](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/0560-subarray-sum-equals-k) |
 | [1331-rank-transform-of-an-array](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/1331-rank-transform-of-an-array) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/0268-missing-number) |
+| [0451-sort-characters-by-frequency](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -215,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/0229-majority-element-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/0451-sort-characters-by-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/3312-sorted-gcd-pair-queries) |
 ## Combinatorics
@@ -254,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/0451-sort-characters-by-frequency) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Counting Sort
 |  |
@@ -267,4 +272,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/0796-rotate-string) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
