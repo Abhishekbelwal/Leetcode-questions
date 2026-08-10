@@ -7,7 +7,7 @@ class Solution {
             if(rev>Integer.MAX_VALUE/10||(rev==Integer.MAX_VALUE && pop>7)){
                 return 0;
             }
-             if(rev<Integer.MIN_VALUE/10||(rev==Integer.MIN_VALUE && pop>7)){
+             if(rev<Integer.MIN_VALUE/10||(rev==Integer.MIN_VALUE && pop<-8)){
                 return 0;
             }
             rev=rev*10+pop;
