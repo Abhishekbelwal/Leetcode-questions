@@ -310,4 +310,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
