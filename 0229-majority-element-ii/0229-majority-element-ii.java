@@ -1,38 +1,43 @@
+import java.util.*;
+
 class Solution {
     public List<Integer> majorityElement(int[] nums) {
-              int n = nums.length;
-        int cnt1 = 0, cnt2 = 0;
-        int el1 = Integer.MIN_VALUE, el2 = Integer.MIN_VALUE;
+        List<Integer> result = new ArrayList<>();
+        if (nums == null || nums.length == 0) return result;
 
-        for (int i = 0; i < n; i++) {
-            if (cnt1 == 0 && el2 != nums[i]) {
-                cnt1 = 1;
-                el1 = nums[i]; 
-            } else if (cnt2 == 0 && el1 != nums[i]) {
-                cnt2 = 1;
-                el2 = nums[i]; 
-            } else if (nums[i] == el1) {
-                cnt1++;
-            } else if (nums[i] == el2) {
-                cnt2++; 
+        // Step 1: Find potential candidates
+        int candidate1 = 0, candidate2 = 0;
+        int count1 = 0, count2 = 0;
+
+        for (int num : nums) {
+            if (num == candidate1) {
+                count1++;
+            } else if (num == candidate2) {
+                count2++;
+            } else if (count1 == 0) {
+                candidate1 = num;
+                count1 = 1;
+            } else if (count2 == 0) {
+                candidate2 = num;
+                count2 = 1;
             } else {
-                cnt1--; 
-                cnt2--;
+                count1--;
+                count2--;
             }
         }
 
-        cnt1 = 0; cnt2 = 0; 
-        for (int i = 0; i < n; i++) {
-            if (nums[i] == el1) cnt1++; 
-            if (nums[i] == el2) cnt2++;
+        // Step 2: Manually verify the candidates
+        count1 = 0;
+        count2 = 0;
+        for (int num : nums) {
+            if (num == candidate1) count1++;
+            else if (num == candidate2) count2++;
         }
 
-        int mini = n / 3 + 1;
-        List<Integer> result = new ArrayList<>(); 
-        if (cnt1 >= mini) result.add(el1);
-        if (cnt2 >= mini && el1 != el2) result.add(el2);
+        int threshold = nums.length / 3;
+        if (count1 > threshold) result.add(candidate1);
+        if (count2 > threshold) result.add(candidate2);
 
         return result;
-
     }
 }
