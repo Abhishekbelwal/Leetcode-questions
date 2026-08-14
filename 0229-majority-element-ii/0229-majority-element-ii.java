@@ -4,8 +4,6 @@ class Solution {
     public List<Integer> majorityElement(int[] nums) {
         List<Integer> result = new ArrayList<>();
         if (nums == null || nums.length == 0) return result;
-
-        // Step 1: Find potential candidates
         int candidate1 = 0, candidate2 = 0;
         int count1 = 0, count2 = 0;
 
@@ -26,7 +24,6 @@ class Solution {
             }
         }
 
-        // Step 2: Manually verify the candidates
         count1 = 0;
         count2 = 0;
         for (int num : nums) {
