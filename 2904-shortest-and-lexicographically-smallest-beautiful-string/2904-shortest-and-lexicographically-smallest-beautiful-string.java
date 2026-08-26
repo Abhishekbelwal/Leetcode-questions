@@ -4,15 +4,12 @@ class Solution {
 
         for (int i = 0; i < s.length(); i++) {
 
+            int count = 0;
+
             for (int j = i; j < s.length(); j++) {
 
-                int count = 0;
-
-                // Count 1s in current substring
-                for (int x = i; x <= j; x++) {
-                    if (s.charAt(x) == '1') {
-                        count++;
-                    }
+                if (s.charAt(j) == '1') {
+                    count++;
                 }
 
                 if (count == k) {
@@ -25,6 +22,11 @@ class Solution {
 
                         ans = current;
                     }
+                }
+
+                // More than k ones → no need to go further
+                if (count > k) {
+                    break;
                 }
             }
         }
