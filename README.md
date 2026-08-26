@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/1903-largest-odd-number-in-string) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
