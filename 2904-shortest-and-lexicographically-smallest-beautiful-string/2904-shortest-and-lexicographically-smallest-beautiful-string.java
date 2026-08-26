@@ -1,32 +1,41 @@
 class Solution {
     public String shortestBeautifulSubstring(String s, int k) {
+
         String ans = "";
 
-        for (int i = 0; i < s.length(); i++) {
+        int left = 0;
+        int ones = 0;
 
-            int count = 0;
+        for (int right = 0; right < s.length(); right++) {
 
-            for (int j = i; j < s.length(); j++) {
+            if (s.charAt(right) == '1') {
+                ones++;
+            }
 
-                if (s.charAt(j) == '1') {
-                    count++;
+            // We have more than k ones
+            while (ones > k) {
+                if (s.charAt(left) == '1') {
+                    ones--;
+                }
+                left++;
+            }
+
+            // Exactly k ones
+            if (ones == k) {
+
+                // Remove unnecessary zeros from left
+                while (s.charAt(left) == '0') {
+                    left++;
                 }
 
-                if (count == k) {
-                    String current = s.substring(i, j + 1);
+                String current = s.substring(left, right + 1);
 
-                    if (ans.equals("") ||
-                        current.length() < ans.length() ||
-                        (current.length() == ans.length() &&
-                         current.compareTo(ans) < 0)) {
+                if (ans.equals("") ||
+                    current.length() < ans.length() ||
+                    (current.length() == ans.length() &&
+                     current.compareTo(ans) < 0)) {
 
-                        ans = current;
-                    }
-                }
-
-                // More than k ones → no need to go further
-                if (count > k) {
-                    break;
+                    ans = current;
                 }
             }
         }
