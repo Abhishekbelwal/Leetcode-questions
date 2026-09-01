@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/0268-missing-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Array
 |  |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-sorted-gcd-pair-queries](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Sorting
 |  |
@@ -274,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [1260-shift-2d-grid](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/1260-shift-2d-grid) |
 | [1901-find-a-peak-element-ii](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/1901-find-a-peak-element-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Stack
 |  |
 | ------- |
@@ -344,4 +348,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 <!---LeetCode Topics End-->
