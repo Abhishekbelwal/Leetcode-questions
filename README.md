@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/0344-reverse-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/0796-rotate-string) |
+| [0940-distinct-subsequences-ii](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/0940-distinct-subsequences-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/1140-stone-game-ii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Recursion
