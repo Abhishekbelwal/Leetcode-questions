@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/1140-stone-game-ii) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1903-largest-odd-number-in-string](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/1922-count-good-numbers) |
@@ -410,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Quicksort
 |  |
 | ------- |
