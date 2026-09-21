@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/0268-missing-number) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/0268-missing-number) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/0268-missing-number) |
