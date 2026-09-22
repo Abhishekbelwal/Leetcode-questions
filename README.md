@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/0344-reverse-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/0509-fibonacci-number) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/0242-valid-anagram) |
@@ -441,4 +444,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3525-find-x-value-of-array-ii](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/3525-find-x-value-of-array-ii) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
