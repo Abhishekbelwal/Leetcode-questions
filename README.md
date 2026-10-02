@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/0242-valid-anagram) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/0053-maximum-subarray) |
 | [0115-distinct-subsequences](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/0118-pascals-triangle) |
@@ -395,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -421,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/0039-combination-sum) |
 | [1096-brace-expansion-ii](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/1096-brace-expansion-ii) |
 ## Linked List
