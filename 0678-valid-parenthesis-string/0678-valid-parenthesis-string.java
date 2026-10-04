@@ -3,12 +3,23 @@ class Solution {
         int l = 0, h = 0;
 
         for (int i = 0; i < s.length(); i++) {
-            l += s.charAt(i) == '(' ? 1 : -1;
-            h += s.charAt(i) == ')' ? -1 : 1;
+           if(s.charAt(i)=='('){
+            l++;
+            h++;
+           }else if(s.charAt(i)==')'){
+                if(l>0){
+                    l--;
+                }
+                h--;
+           }else{
+            if(l>0){
+                l--;
+            }h++;
+           }
 
             if (h < 0) return false;
 
-            l = Math.max(l, 0);
+           
         }
 
         return l == 0;
