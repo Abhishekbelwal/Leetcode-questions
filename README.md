@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/0268-missing-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Array
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/2856-minimum-array-length-after-pair-removals) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/2856-minimum-array-length-after-pair-removals) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -389,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/1903-largest-odd-number-in-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/2856-minimum-array-length-after-pair-removals) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Monotonic Stack
