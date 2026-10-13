@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/0344-reverse-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2540-minimum-common-value](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/2540-minimum-common-value) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2057-smallest-index-with-equal-value](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/2057-smallest-index-with-equal-value) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2540-minimum-common-value](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/2540-minimum-common-value) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2540-minimum-common-value](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/2540-minimum-common-value) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -301,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/1539-kth-missing-positive-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1901-find-a-peak-element-ii](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/1901-find-a-peak-element-ii) |
+| [2540-minimum-common-value](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/2540-minimum-common-value) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
