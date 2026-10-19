@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1901-find-a-peak-element-ii](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/1901-find-a-peak-element-ii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2057-smallest-index-with-equal-value](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/2057-smallest-index-with-equal-value) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2540-minimum-common-value](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/2540-minimum-common-value) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/1539-kth-missing-positive-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1901-find-a-peak-element-ii](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/1901-find-a-peak-element-ii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2540-minimum-common-value](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/2540-minimum-common-value) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/3312-sorted-gcd-pair-queries) |
