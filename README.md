@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/0877-stone-game) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1140-stone-game-ii](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/1140-stone-game-ii) |
+| [1254-number-of-closed-islands](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/1260-shift-2d-grid) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1331-rank-transform-of-an-array](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/1331-rank-transform-of-an-array) |
@@ -390,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/0128-longest-consecutive-sequence) |
+| [1254-number-of-closed-islands](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Matrix
 |  |
@@ -400,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0835-image-overlap](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/0835-image-overlap) |
+| [1254-number-of-closed-islands](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/1260-shift-2d-grid) |
 | [1901-find-a-peak-element-ii](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/1901-find-a-peak-element-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -510,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/1254-number-of-closed-islands) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Database
 |  |
@@ -524,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Abhishekbelwal/Leetcode-questions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
